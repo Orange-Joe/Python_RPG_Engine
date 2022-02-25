@@ -549,18 +549,4 @@ def grid():
                 pass
 
 
-
-# def main():
-#     if last_door is None:
-#         village_square()
-#     elif last_door is d:
-#         open_world()
-#     elif last_door is d1:                                                    
-#         print("You just left the open")
-#     else:
-#         print("End")
-
-# while game_over is False:
-
-# village_square()
 open_world()
