@@ -2,7 +2,6 @@ from dialog import *
 import os
 import sys
 import readchar
-import pygame
 import time
 
 
