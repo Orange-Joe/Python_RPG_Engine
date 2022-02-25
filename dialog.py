@@ -5,8 +5,8 @@ import time
 from collections import deque
 import cursor
 
-__author__ = "0range-j0e"
-__copyright__ = "0range-j0e"
+__author__ = "Orange-Joe"
+__copyright__ = "Orange-Joe"
 __version__ =  "1.0"
 
 """
