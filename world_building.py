@@ -6,7 +6,6 @@ import time
 
 
 __author__ = "0range-j0e"
-__copyright__ = "0range-j0e"
 __version__ =  "1.0"
 
 """
