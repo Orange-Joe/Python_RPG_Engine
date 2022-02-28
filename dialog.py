@@ -6,7 +6,6 @@ from collections import deque
 import cursor
 
 __author__ = "Orange-Joe"
-__copyright__ = "Orange-Joe"
 __version__ =  "1.0"
 
 """
